@@ -1,3 +1,5 @@
+Language: [English](README.md) | [Português](translation/pt-BR/README.md) 
+
 # pandas-api-flask
 
 
