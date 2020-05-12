@@ -2,6 +2,10 @@ Language: [English](README.md) | [Português](translation/pt-BR/README.md)
 
 # pandas-api-flask
 
+## Tecnologies:
+- [pandas](https://pandas.pydata.org/)
+- [flask](https://flask.palletsprojects.com/en/1.1.x/)
+
 
 ### How to start the project
 
