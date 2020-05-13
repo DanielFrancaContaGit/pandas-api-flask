@@ -1,5 +1,11 @@
 # pandas-api-flask
 
+## tecnologias
+
+- [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+
+- [Pandas](https://pandas.pydata.org/)
+
 
 ### Como iniciar o projeto
 
